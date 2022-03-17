@@ -34,7 +34,7 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 
 ## Screenshots
 
-!["Products Page"]()
-![Electronics Page]()
-![Login Page]()
-![Signup Page]()
+!["Products Page"](https://github.com/leapehar/jungle/blob/master/docs/Products-page.png?raw=true)
+![Electronics Page](https://github.com/leapehar/jungle/blob/master/docs/electronics-page.png?raw=true)
+![Login Page](https://github.com/leapehar/jungle/blob/master/docs/Login-page.png?raw=true)
+![Signup Page](https://github.com/leapehar/jungle/blob/master/docs/signup-page.png?raw=true)
